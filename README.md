@@ -5,7 +5,7 @@ I am currently looking for a full time new grad role!
 
 ## 🛠️ Tech Skills
 - **Languages**: Python, Java, SQL, HTML, CSS, JavaScript, PL/SQL, C, R, Node.js, React
-- **Other Tools**: Visual Paradigm (UML), Unix/Linux (Ubuntu), VMware, Wireshark, Netstat, Apache HTTP Server, GitHub, GitCloud   
+- **Tools**: Visual Paradigm (UML), Unix/Linux (Ubuntu), VMware, Wireshark, Netstat, Apache HTTP Server, GitHub, GitCloud   
 - **Other**: Agile, Scrum, SDLC
 
 ## 📫 Let's Connect!
