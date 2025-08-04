@@ -1,4 +1,4 @@
-# Hi, I'm Shreya
+# Hi, I'm Shreya!
 
 I'm a recent graduate from Purdue University with hands-on experience in software development, cloud, and AI/ML.
 I am currently looking for a full time new grad role!
