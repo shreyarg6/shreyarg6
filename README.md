@@ -12,4 +12,4 @@ I am currently looking for a full time new grad role!
 - [LinkedIn](https://www.linkedin.com/in/shreya-guddeti-aa1003220/)
 
 ## 🚀 Projects 🔽
-- Below are my projects including AI chatbots, python projects, and interactive web apps!
+- Below are my projects including AI based projects, python projects, and interactive web apps!
