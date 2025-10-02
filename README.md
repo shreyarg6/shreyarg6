@@ -1,7 +1,6 @@
 # Hi, I'm Shreya!
 
-I'm a recent graduate from Purdue University with hands-on experience in software development, cloud, and AI/ML.
-I am currently looking for a full time new grad role! Aspiring software developer/engineer!
+I'm a graduate from Purdue University with hands-on experience in software development, cloud, and AI/ML. I am currently looking for a full time new grad role! Aspiring software developer/engineer!
 
 ## 🛠️ Tech Skills
 - **Languages**: Python, Java, SQL, HTML, CSS, JavaScript, PL/SQL, C, R, Node.js, React
